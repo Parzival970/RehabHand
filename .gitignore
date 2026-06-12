@@ -1,0 +1,8 @@
+venv/
+env/
+CTranslate2/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
